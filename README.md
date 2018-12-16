@@ -5,6 +5,6 @@ It is a game that lets users practice their basic numeracy skills (which is at p
 2. Download all the files from SelectionIcons and out/production/MVC into it.
 3. Open up the terminal and go to the folder you created.
 4. Run the following command (for Windows):
-'''
+```
 java Game
-'''
+```
