@@ -4,7 +4,7 @@ It is a game that lets users practice their basic numeracy skills (which is at p
 This was written in Java 11 using IntelliJ. To compile, Java 8 or higher is required. 
 ### Getting started
 1. Create a new folder.
-2. Download all the files from SelectionIcons and src into it.
+2. Download all the files from src into it. Then download add.png, multiply.png and subtract.png into it.
 3. Open up the terminal and go to the folder you created.
 4. Note that in order to run the application, CalculationList.java must be compiled first. The following is a snippet from Command Prompt on Windows that successfully gets the application running.
 ```
@@ -12,5 +12,7 @@ javac CalculationList.java
 javac Game.java
 java Game
 ```
+### If you are using an IDE:
+Clone/download the repository.
 ### License
-Do whatever you want with it! See design document for possible modifications.
+Do whatever you want with it! See design document for possible extensions.
