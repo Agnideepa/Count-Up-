@@ -1,7 +1,7 @@
 # Count Up!
 It is a game that lets users practice their basic numeracy skills (which is at present limited to addition, subtraction and multiplication), by allowing them to create their own questions. Questions get harder or easier depending on the user's performance. Detailed instructions on how to play are in the design document.
 ## Software/Tools
-This was written in Java 11 using IntelliJ. To compile, Java 8 or higher is required. 
+This was written in Java 8 using IntelliJ. To compile, Java 8 or higher is required. 
 ### Getting started
 1. Create a new folder.
 2. Download all the files from src into it. Then download add.png, multiply.png and subtract.png into it.
